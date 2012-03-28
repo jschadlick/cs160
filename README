@@ -5,6 +5,7 @@ Currently:
   	-pre recording
 	-post recording
 	-comment annotation
+ -Annotation currently set to recognize one word at a time, can set up to 4+ by uncommenting the other gb.Appends in CreateSpeechRecognizer()
  -simple visual testing:
 	-in recording modes, labels will appear if command is recognized
 	-in annotation, recognized words will appear in text block
