@@ -1,0 +1,15 @@
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\bin\Debug\SpeechToText.exe
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\bin\Debug\SpeechToText.pdb
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.baml
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\MainWindow.g.cs
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\App.g.cs
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText_MarkupCompile.cache
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.g.resources
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.Properties.Resources.resources
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.exe
+c:\users\yeah!\documents\visual studio 2010\Projects\SpeechToText\SpeechToText\obj\x86\Debug\SpeechToText.pdb
