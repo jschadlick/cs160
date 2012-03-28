@@ -1,0 +1,14 @@
+Rudimentary speech to text prototype for UC Berkeley cs160 group I/eye prototype of Choreo! application.
+
+Currently:
+  -bool flags for 3 different modes:
+  -pre recording
+	-post recording
+	-comment annotation
+ -simple visual testing:
+	-in recording modes, labels will appear if command is recognized
+	-in annotation, recognized words will appear in text block
+	-displays rejection/acceptance of hypothesized word, as well as sureness of guess
+ -using word list found at: http://www.mieliestronk.com/wordlist.html for annotation vocabulary
+
+ Thank you Nicholas Kong / cs160 discussion section for much of the base code.
