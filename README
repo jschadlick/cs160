@@ -2,7 +2,7 @@ Rudimentary speech to text prototype for UC Berkeley cs160 group I/eye prototype
 
 Currently:
   -bool flags for 3 different modes:
-  -pre recording
+  	-pre recording
 	-post recording
 	-comment annotation
  -simple visual testing:
